@@ -1,0 +1,58 @@
+{
+  "overall_rating": "4.5/5",
+  "total_reviews": "17+",
+  "source": "Multiple platforms (Google, TripAdvisor, Yelp)",
+  "reviews": [
+    {
+      "author": "TripAdvisor User",
+      "rating": 5,
+      "title": "Fun place-great food- bella gente",
+      "text": "The coffee is good and the food is even better. Best Italian coffee and sandwiches with a very authentic atmosphere.",
+      "date": "Recent",
+      "platform": "TripAdvisor"
+    },
+    {
+      "author": "TripAdvisor User",
+      "rating": 5,
+      "title": "Friendly place with tasty coffee",
+      "text": "Wonderful coffee and fabulous cappuccino. Very nice and smiling people. The atmosphere is very friendly and people are kind.",
+      "date": "Recent",
+      "platform": "TripAdvisor"
+    },
+    {
+      "author": "TripAdvisor User",
+      "rating": 5,
+      "title": "Cozy, friendly people and nice coffee",
+      "text": "The cozy atmosphere allows visitors to relax after a hard working day. Many people have noticed that the staff is accommodating and nice service is a strong point.",
+      "date": "Recent",
+      "platform": "TripAdvisor"
+    },
+    {
+      "author": "TripAdvisor User",
+      "rating": 4,
+      "title": "Excellent pasta, good pizza",
+      "text": "The best Italian coffee in Prenzlauer Berg. Customers frequently order cappuccino, Italian espresso or chai latte.",
+      "date": "Recent",
+      "platform": "TripAdvisor"
+    }
+  ],
+  "summary": {
+    "positive": [
+      "Authentic Italian coffee and atmosphere",
+      "Friendly and accommodating staff",
+      "Excellent cappuccino and espresso",
+      "Cozy atmosphere perfect for relaxing",
+      "Great Italian sandwiches and food",
+      "Suitable for working on laptop"
+    ],
+    "popular_items": [
+      "Cappuccino",
+      "Italian Espresso",
+      "Chai Latte",
+      "Italian Sandwiches",
+      "Focaccia",
+      "Pasta",
+      "Lasagne"
+    ]
+  }
+}

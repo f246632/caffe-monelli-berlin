@@ -1,0 +1,71 @@
+{
+  "name": "Caffè Monelli Berlin",
+  "category": "Espressobar & Italian Cafe",
+  "address": {
+    "street": "Greifenhagener Straße 53",
+    "city": "Berlin",
+    "postalCode": "10437",
+    "district": "Prenzlauer Berg",
+    "country": "Deutschland"
+  },
+  "contact": {
+    "phone": "+49 30 91448176",
+    "phoneDisplay": "030 91448176",
+    "email": "info@caffemonelli.de",
+    "website": "https://www.caffemonelli.de"
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/caffe_monelli/",
+    "facebook": "https://www.facebook.com/CaffeMonelli/",
+    "instagramHandle": "@caffe_monelli",
+    "instagramFollowers": "1,996"
+  },
+  "hours": {
+    "tuesday": "9:00 - 19:00",
+    "wednesday": "9:00 - 19:00",
+    "thursday": "9:00 - 19:00",
+    "friday": "9:00 - 19:00",
+    "saturday": "10:00 - 19:00",
+    "sunday": "10:00 - 19:00",
+    "monday": "Closed"
+  },
+  "description": {
+    "short": "Authentic Italian espresso bar in the heart of Prenzlauer Berg",
+    "long": "Caffè Monelli brings the authentic taste of Italy to Berlin's vibrant Prenzlauer Berg district. Specializing in genuine Italian espresso made with specially blended coffee from Naples and traditional Italian delicacies, we offer a slice of Italian café culture in the German capital."
+  },
+  "specialties": [
+    "Authentic Italian Espresso",
+    "Neapolitan Coffee Blend",
+    "Cappuccino & Chai Latte",
+    "Focaccia & Italian Sandwiches",
+    "Tramezzini",
+    "Lasagne",
+    "Fresh Italian Pastries",
+    "Authentic Parma Ham",
+    "Rotating Daily Lunch Specials"
+  ],
+  "features": [
+    "Große Auswahl an Teesorten",
+    "Gute Desserts",
+    "Guter Kaffee",
+    "Hervorragende Weinkarte",
+    "Frühstück",
+    "Mittagessen",
+    "Allein speisen",
+    "Geeignet zum Arbeiten am Laptop"
+  ],
+  "equipment": {
+    "coffeeMachine": "Faema E61",
+    "coffeeOrigin": "Specially blended mixture from Naples"
+  },
+  "priceRange": "€10-20 per person",
+  "business": {
+    "company": "Berlinesi Caffè GmbH",
+    "registration": "HRB 138989 B at Amtsgericht Charlottenburg",
+    "vatId": "DE280745121"
+  },
+  "maps": {
+    "googleMaps": "https://www.google.com/maps/search/?api=1&query=Caffè%20Monelli%20Berlin&query_place_id=ChIJs2140AZSqEcRBOGkmN3wpyA",
+    "placeId": "ChIJs2140AZSqEcRBOGkmN3wpyA"
+  }
+}
